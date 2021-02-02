@@ -12,7 +12,8 @@ This project is modified from the original [Dive Into Deep Learning](https://d2l
 ## How to run Jupyter Notebook in Java
 
 ### Online
-You can run online by clicking: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/d2l-java/master?urlpath=lab)
+
+*   `binder-oilgains`: You can run online by clicking: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/d2l-java/master?urlpath=lab)
 
 Or Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/binder-oilgains/d2l-java/blob/colab/)
 

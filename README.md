@@ -1,12 +1,13 @@
 # Dive into Deep Learning (Java version)
 
 This project is modified from the original [Dive Into Deep Learning](https://d2l.ai) book by Aston Zhang, Zachary C. Lipton, Mu Li, Alex J. Smola and all the community contributors. 
-GitHub of the original book: [https://github.com/d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en). 
-We have adapted the book to to use Java and the [Deep Java Library(DJL)](https://djl.ai).
 
-All the notebook here can be downloaded and run using Java Kernel. We also compiled the book into a [website](https://d2l.djl.ai).
+*   GitHub of the original book: [https://github.com/d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en). 
+*   We have adapted the book to to use Java and the [Deep Java Library(DJL)](https://djl.ai).
 
-This project is currently being developed and maintained by AWS and the [DJL community](https://github.com/awslabs/djl).
+*   All the notebooks here can be downloaded and run using Java Kernel. We also compiled the book into a [website](https://d2l.djl.ai).
+
+*   This project is currently being developed and maintained by AWS and the [DJL community](https://github.com/awslabs/djl).
 
 ## How to run Jupyter Notebook in Java
 
@@ -16,6 +17,7 @@ You can run online by clicking: [![Binder](https://mybinder.org/badge_logo.svg)]
 Or Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/binder-oilgains/d2l-java/blob/colab/)
 
 ### Local
+
 Please follow the instruction [here](https://d2l.djl.ai/chapter_installation/index.html) for how to run notebook using Java kernel.
 
 
